@@ -33,7 +33,5 @@ Mario Game Deployment On Docker
 5.  **Play the Game**
     - To play the game, just hit to `http://<Ec2 instance Public IP >`
 
-7. **Contact**
 
-    For any inquiries or issues, please contact [me](https://www.linkedin.com/in/sudhanshu--pandey/)
 
